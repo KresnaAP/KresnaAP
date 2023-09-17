@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there! 👋
 
 <!--
 **KresnaAP/KresnaAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## GitHub Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=KresnaAP&amp;show_icons=true" alt="GitHub Stats"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KresnaAP&layout=compact" alt="GitHub Stats"></p>
+
+-->
